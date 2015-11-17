@@ -1,3 +1,4 @@
 function funcao(){
-	return 0;
+	var i = 1;
+	return i;
 }
